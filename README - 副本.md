@@ -176,7 +176,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzycoc/yzycoc/output/snk/github-snake.svg">
   <img align="center" src="https://raw.githubusercontent.com/yzycoc/yzycoc/output/snk/github-snake.svg" alt="Snk" />
 </picture>
-  
+   
  
 </div>
 
